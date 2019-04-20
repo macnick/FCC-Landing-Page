@@ -2,7 +2,7 @@
 
 This is my Product Landing page for freeCodeCamp's third [basic front end project](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) created for a real company. Demo is available [on codepen.io](https://codepen.io/macnick/full/YJErGL). The company is real the form does not work due to project requirements. Should you want to contact them click on thei logo to be tranfered to the main page.
 
-![Product Landing Page](/screenshot.jpg)
+<style="align: center">![Product Landing Page](/screenshot.jpg)</style>
 
 ## User Stories
 
